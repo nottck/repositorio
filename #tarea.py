@@ -70,3 +70,6 @@ for pregunta, opciones, correcta in preguntas:
 calificaciones = ["Necesitas repasar más.", "Podrías mejorar.", "Muy bien.", "¡Excelente!"]
 
 print(f"\nTu puntaje obtenido es: {puntaje} puntos. {calificaciones[puntaje]}")
+
+
+print ("ESTO ESTA ECHO POR GITHUB")
